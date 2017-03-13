@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SsoWithFacebookApplication {
 
     /**
-     * Single sign on app using facebook.
+     * Single sign on app using facebook and github.
      * Reference => https://spring.io/guides/tutorials/spring-boot-oauth2/
      **/
     public static void main(String[] args) {
